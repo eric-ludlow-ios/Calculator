@@ -25,11 +25,17 @@ A reverse polish notation calculator that demonstrates auto layout, stacks, targ
 
 ## Step 3: Add buttons and constraints
 
-- Your buttons should look like this
+- Your buttons should look like this:
 [7][8][9][/]
 [4][5][6][*]
 [1][2][3][-]
 [0][Enter][+]
+
+	- equal heights for all buttons
+	- equal width for all buttons (except enter, which should be twice as wide as other buttons)
+	- buttons should be below the display text
+	- buttons should take up rest of screen
+	- should resize nicely when device rotated
 
 
 
