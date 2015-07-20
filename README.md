@@ -34,10 +34,10 @@ A reverse polish notation calculator that demonstrates auto layout, stacks, targ
 
 
 
-```[7][8][9][/]
-[4][5][6][*]
-[1][2][3][-]
-[0][Enter][+]```
+```[7][8][9][/]```
+```[4][5][6][*]```
+```[1][2][3][-]```
+```[0][Enter][+]```
 
 
 
